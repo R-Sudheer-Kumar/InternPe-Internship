@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+    <title>Calculator Using HTML and CSS</title>
+
+</head>
+<body>
+    <div class="container">
+        <div class="color1"></div>
+        <div class="color2"></div>
+        <div class="color3"></div>
+
+        <div class="calculator">
+            <form name = "forms">
+                <div class = "display">
+                    <input type="text" name = "displays"/>
+                </div>
+    
+                <div>
+                    <input type="button" value="AC"  onclick = "CheckLength('AC')" />
+                    <input type="button" value="DE" onclick = "CheckLength('DE')" />
+                    <input type="button" value="." onclick = " CheckLength('.')"/>
+                    <input type="button" value="/" onclick = " CheckLength('/')"/>
+                </div>
+                <div>
+                    <input type="button" value="7" onclick = " CheckLength('7') "/>
+                    <input type="button" value="8" onclick = " CheckLength('8') "/>
+                    <input type="button" value="9" onclick = " CheckLength('9')"/>
+                    <input type="button" value="x" onclick = " CheckLength('x') "/>
+                </div>
+                <div>
+                    <input type="button" value="4" onclick = " CheckLength('4') "/>
+                    <input type="button" value="5" onclick = " CheckLength('5') "/>
+                    <input type="button" value="6" onclick = " CheckLength('6') "/>
+                    <input type="button" value="-" onclick = " CheckLength('-') "/>
+                </div>
+                <div>
+                    <input type="button" value="1" onclick = " CheckLength('1') "/>
+                    <input type="button" value="2" onclick = " CheckLength('2') "/>
+                    <input type="button" value="3" onclick = " CheckLength('3') "/>
+                    <input type="button" value="+" onclick = " CheckLength('+') "/>
+                </div>
+                <div>
+                    <input type="button" value="00" onclick = " CheckLength('00') "/>
+                    <input type="button" value="0" onclick = " CheckLength('0') "/>
+                    <input type="button" value="=" class = "equal" onclick = "CheckLength('=') " />
+                    
+                </div>
+
+            </form>
+        </div>
+    </div>
+</body>
+</html>
