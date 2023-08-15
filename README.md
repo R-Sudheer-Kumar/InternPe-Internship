@@ -13,8 +13,11 @@ JavaScript
 
 # Learnings
 I learned the fundamentals of web development, including HTML, CSS, and JavaScript.
+
 I gained experience in building different types of web applications.
+
 I improved my problem-solving and debugging skills.
+
 I learned how to work independently and as part of a team.
 
 # Thank You 
