@@ -6,7 +6,9 @@ Task 1 : Built a Calculator App using HTML , CSS , Javacript.
 
 # Technologies
 HTML
+
 CSS
+
 JavaScript 
 
 # Learnings
