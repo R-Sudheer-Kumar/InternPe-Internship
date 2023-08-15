@@ -2,11 +2,11 @@
 This repository contains the tasks that I completed during my web development internship at InternPe.
 
 # Tasks
-Task 1 : Built a Calculator App using HTML , CSS , JAVASCRIPT.
+Task 1 : Built a Calculator App using HTML , CSS , Javacript.
 
 # Technologies
-HTML \n
-CSS \n
+HTML
+CSS
 JavaScript 
 
 # Learnings
