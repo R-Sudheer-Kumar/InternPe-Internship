@@ -5,10 +5,10 @@ This repository contains the tasks that I completed during my web development in
 Task 1 : Built a Calculator App using HTML , CSS , Javacript.
 
 # Technologies
-HTML
-
+HTML 
+*** 
 CSS
-
+___
 JavaScript 
 
 # Learnings
