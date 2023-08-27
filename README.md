@@ -2,7 +2,8 @@
 This repository contains the tasks that I completed during my web development internship at InternPe.
 
 # Tasks
-Week 1 : Built a Calculator App using HTML , CSS , Javacript.
+Week 1 : Building a Calculator App using HTML , CSS , Javacript.
+Week 2 : Building a responsive e-commerce website using HTML , CSS , JavaScript.
 
 # Technologies
 HTML 
