@@ -3,6 +3,7 @@ This repository contains the tasks that I completed during my web development in
 
 # Tasks
 Week 1 : Building a Calculator App using HTML , CSS , Javacript.
+
 Week 2 : Building a responsive e-commerce website using HTML , CSS , JavaScript.
 
 # Technologies
