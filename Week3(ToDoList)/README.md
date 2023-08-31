@@ -11,11 +11,11 @@ JavaScript
 
 # What new things I learned while doing this project
 
-1.I have learned about the display element flex in detail.
+1.I had learned about the display element flex in detail.
 
-2.I have  learned about the pseudo elements like ::before and ::after elements.
+2.I had  learned about the pseudo elements like ::before and ::after elements.
 
-3.I have learned mainly the JavaScript localstorage which is used to store the data in the website and saves data even the website refreshed or reopened . 
+3.I had learned mainly the JavaScript localstorage which is used to store the data in the website and saves data even the website refreshed or reopened . 
 
 # Thank You
 I would like to thank the team at InternPe for giving me this opportunity to learn and grow as a web developer. I am grateful for the support and guidance that I received during my internship.
