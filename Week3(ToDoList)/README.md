@@ -1,4 +1,4 @@
-# Week 2 Creating a ToDoList Website
+# Week 3  Creating a ToDoList Website
 This is the third task of InternPe internship which is about building a ToDoList website .
 
 I had used HTML,CSS,JavaScript for building the ToDoList website . In this task I had used localstorage for permenantly storing the data into the website.
